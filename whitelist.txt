@@ -18,3 +18,4 @@ npc_fw
 fwsbrb_npc
 3i4d72fj765
 zxc12345965
+--50$ Add a whitelist of your roblox name
